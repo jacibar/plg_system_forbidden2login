@@ -7,7 +7,7 @@
 	<license>GNU General Public License version 3 or later; see	LICENSE.txt</license>
 	<authorEmail>informatico@cidrebardelas.com</authorEmail>
 	<authorUrl>http://www.cidrebardelas.com</authorUrl>
-	<version>0.6.0</version>
+	<version>0.6.1</version>
 	<description>PLG_SYSTEM_FORBIDDEN2LOGIN_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="forbidden2login">forbidden2login.php</filename>
@@ -15,5 +15,7 @@
 	<languages>
 		<language tag="en-GB">language/en-GB/en-GB.plg_system_forbidden2login.ini</language>
 		<language tag="en-GB">language/en-GB/en-GB.plg_system_forbidden2login.sys.ini</language>
+		<language tag="gl-ES">language/gl-ES/gl-ES.plg_system_forbidden2login.ini</language>
+		<language tag="gl-ES">language/gl-ES/gl-ES.plg_system_forbidden2login.sys.ini</language>
 	</languages>
 </extension>
